@@ -1,15 +1,18 @@
 body{
-  background-color: rgb(23, 23, 109);
+  background-color: rgb(149, 149, 196);
 }
 
 header{
   display: flex;
-    background-color: rgb(42, 69, 156);
+    align-items: center;
+    justify-content: space-between;
+    
+    background-color: rgb(54, 93, 223);
 }
 
   footer{
 
-       background-color: rgb(23, 23, 187);
+       background-color: rgb(71, 71, 182);
   }
   .cabecalho_imagem{
       width: 200px;
@@ -17,9 +20,3 @@ header{
       border-radius: 50%;
       padding: 10px;
   }
-
-         .cabecalho_menu-listaitem{
-              display: inline;
-              text-transform: uppercase;
-              margin-left: 10px;
-         }
