@@ -34,10 +34,16 @@ header{
    .sobre{
     display: flex;
     justify-content: center;
+    align-items: center;
    }
 
    .sobre_imagem{
     width: 400px;
     height: 400px;
     padding: 20px;
+   }
+
+
+   .sobre_texto{
+        text-align: justify;
    }
