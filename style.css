@@ -1,17 +1,17 @@
 body{
-  background-color: rgb(211, 156, 208);
+  background-color: rgb(248, 205, 246);
 }
 
 header{
   display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: rgb(180, 120, 221);
+    background-color: rgb(219, 183, 243);
 }
 
   footer{
 
-       background-color: rgb(207, 138, 228);
+       background-color: rgb(245, 214, 255);
   }
   .cabecalho_imagem{
       width: 200px;
